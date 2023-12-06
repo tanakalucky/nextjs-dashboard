@@ -6,7 +6,7 @@
       "vscode": {
         "extensions": ["eamodio.gitlens", "dbaeumer.vscode-eslint", "esbenp.prettier-vscode"],
         "settings": {
-          "prettier.configPath": ".prettierrc.json",
+          "prettier.configPath": "prettier.config.js",
           "editor.defaultFormatter": "esbenp.prettier-vscode",
           "editor.formatOnSave": true,
           "editor.codeActionsOnSave": {
